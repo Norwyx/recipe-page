@@ -32,5 +32,5 @@ ul li {
 ## Author
 
 - Website - [Manuel Salazar](manuelsalazardev.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Norwyx)
+- Frontend Mentor - [@Norwyx](https://www.frontendmentor.io/profile/Norwyx)
 - Twitter - [@norwyx](https://www.twitter.com/norwyx)
