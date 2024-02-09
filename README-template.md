@@ -1,6 +1,6 @@
 # Recipe page
 
-A responsive recipe page. This page was built as a front-end project of[Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
+A responsive recipe page. This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
 
 ### Screenshot
 
